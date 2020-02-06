@@ -15,3 +15,20 @@ class Meal
   end 
 
 end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
